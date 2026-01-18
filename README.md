@@ -7,6 +7,12 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+<img width="1910" height="832" alt="image" src="https://github.com/user-attachments/assets/10edcc31-9a28-4067-8266-0371962555af" />
+<img width="1823" height="786" alt="image" src="https://github.com/user-attachments/assets/b7960815-074c-40c8-bd66-a3d5bb1087e5" />
+
+
+
+
 ## 💻 Sobre o Projeto
 
 Este projeto nasceu como um desafio do módulo de C# da **Rocketseat**: construir uma API para gerenciar uma livraria.
@@ -54,13 +60,6 @@ O que foi solicitado vs. O que foi entregue:
     * Preço e Estoque não podem ser negativos.
     * Título deve ter entre 2 e 120 caracteres.
 
-## 📦 Como rodar o projeto
 
-### Pré-requisitos
-* .NET SDK 9.0+
-* Node.js e NPM
-* SQL Server (LocalDB ou Express)
-
-### Passo 1: Backend (.NET)
 
 
